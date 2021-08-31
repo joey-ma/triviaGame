@@ -1,4 +1,4 @@
-Team Cheddar
+**Team Cheddar**
 Sabre, Raymond, Joey
 
 Project: Creating a Trivia Game
